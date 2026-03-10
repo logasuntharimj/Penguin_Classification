@@ -62,3 +62,11 @@ Among the four models tested, the Decision Tree classifier provided the most opt
 - Jupyter Notebook
 
 ## Project Structure
+penguin-classification
+│
+├── data
+│ └── penguins.csv
+├── notebooks
+│ └── penguin_classification.ipynb
+├── images
+└── README.md
