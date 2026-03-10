@@ -1,6 +1,3 @@
-# Penguin_Classification
-To predict the spicies of penguins based on their specific features using Palmer Penguin Dataset 
-
 # Penguin Species Classification using Machine Learning
 
 ## Project Overview
@@ -65,3 +62,8 @@ Among the four models tested, the Decision Tree classifier provided the most opt
 - Jupyter Notebook
 
 ## Project Structure
+penguin-classification
+│
+├── penguin_classification.ipynb
+├── dataset.csv
+└── README.md
